@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-rest",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Loopback REST Connector",
   "keywords": [
     "StrongLoop",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-connector-rest.git"
+    "url": "https://github.com/clarkorz/loopback-connector-rest.git"
   },
   "license": {
     "name": "Dual MIT/StrongLoop",
